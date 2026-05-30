@@ -1,0 +1,14 @@
+{
+  "name": "lumtech-app",
+  "version": "1.0.0",
+  "description": "Lum Tech Solutions web application",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^latest"
+  }
+}
